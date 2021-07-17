@@ -1,0 +1,32 @@
+.container{
+    border: 3px solid black;
+    
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    position: relative;
+    top: 33%;
+}
+.container img{
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+.container h2{
+    border: 2px solid brown;
+    margin: 2px;
+}
+.flex-box img:hover{
+    box-shadow: 0px 10px 50px rgb(223, 9, 51)
+}
+h2{
+    color:crimson;
+    background-color:whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+body{
+    background: url(rock3.jpg);
+    background-position: center;
+    background-size: 65%;
+}
